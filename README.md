@@ -1,3 +1,6 @@
+# Frontend only has been archived
+> The frontend only repo has been archived and the functionality has been merged with backend and is available under the old name  at [https://github.com/CodepediaOrg/bookmarks.dev](https://github.com/CodepediaOrg/bookmarks.dev)
+
 # Source code for bookmarks.dev - the Bookmark Manager for Developers & Co
 
 <img align="left" src="src/assets/bookmarks.dev-logo-md.png">
